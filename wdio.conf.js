@@ -276,7 +276,6 @@ let wdioConfig = {
    * @param {String} oldSessionId session ID of the old session
    * @param {String} newSessionId session ID of the new session
    */
-
 };
 
 if (process.env.SAUCELABS_USER) {
